@@ -28,7 +28,7 @@ _Copia de la Base De Datos
 
 ## Conexion Sql Server 📦
 ```
-__Para conextar El proyecto a Base de Datos 
+__Para conectar El proyecto a Base de Datos: 
 __User Id = sa  
 __es el que esta por defecto en mi base de datos pero si tienes otra usuario lo escribes
 __Password="" 
