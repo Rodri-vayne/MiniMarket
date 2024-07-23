@@ -1,0 +1,14 @@
+C:\Users\Elio\source\repos\MiniMarket\MiniMarket\bin\Debug\MiniMarket.exe
+C:\Users\Elio\source\repos\MiniMarket\MiniMarket\bin\Debug\MiniMarket.pdb
+C:\Users\Elio\source\repos\MiniMarket\MiniMarket\obj\Debug\MiniMarket.csproj.AssemblyReference.cache
+C:\Users\Elio\source\repos\MiniMarket\MiniMarket\obj\Debug\MiniMarket.Presentacion.Categoria.resources
+C:\Users\Elio\source\repos\MiniMarket\MiniMarket\obj\Debug\MiniMarket.Properties.Resources.resources
+C:\Users\Elio\source\repos\MiniMarket\MiniMarket\obj\Debug\MiniMarket.csproj.GenerateResource.cache
+C:\Users\Elio\source\repos\MiniMarket\MiniMarket\obj\Debug\MiniMarket.csproj.CoreCompileInputs.cache
+C:\Users\Elio\source\repos\MiniMarket\MiniMarket\obj\Debug\MiniMarket.exe
+C:\Users\Elio\source\repos\MiniMarket\MiniMarket\obj\Debug\MiniMarket.pdb
+C:\Users\Elio\source\repos\MiniMarket\MiniMarket\obj\Debug\MiniMarket.Presentacion.Marca.resources
+C:\Users\Elio\source\repos\MiniMarket\MiniMarket\obj\Debug\MiniMarket.Presentacion.UnidadesMedidas.resources
+C:\Users\Elio\source\repos\MiniMarket\MiniMarket\obj\Debug\MiniMarket.Presentacion.Producto.resources
+C:\Users\Elio\source\repos\MiniMarket\MiniMarket\obj\Debug\MiniMarket.Presentacion.Almacen.resources
+C:\Users\Elio\source\repos\MiniMarket\MiniMarket\obj\Debug\MiniMarket.Presentacion.DashboardMiniMarket.resources
